@@ -1,0 +1,25 @@
+main{
+    height: 100vh;
+    background-color: #ffa0ef;
+    background-image:url(../img/fondo-costillas-adan.jpg) ;
+    background-position: bottom left;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+#boton1{
+    border-radius: 20px;
+    width: 125px;
+    height: 40px;
+    background-color: #159915;
+    font-family: 'Montserrat';
+    border: none;
+}
+#boton2{
+    border-radius: 20px;
+    width: 125px;
+    height: 40px;
+    background-color: #594a42;
+    font-family: 'Montserrat';
+    margin-bottom: 10px;
+    border: none;
+}
